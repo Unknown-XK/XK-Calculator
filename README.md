@@ -1,3 +1,3 @@
 XK-Calculator
 
-A simple alculator made with Python.
+A simple calculator made with Python.
