@@ -1,7 +1,7 @@
 #XK-Calculator
 #Made by Unknown-XK
 
-print("Hello to Calculator v1.0.1")
+print("Hello to XK-Calculator v1.0.1")
 print("1- Addition")
 print("2- Subtraction")
 print("3- Multiplication")
